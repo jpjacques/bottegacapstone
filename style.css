@@ -29,7 +29,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+    line-height: 1;
+    font-family: 'Roboto', sans-serif;
 }
 ol, ul {
 	list-style: none;
@@ -171,6 +172,15 @@ main {
     font-size: 2rem;
     margin:3rem 0 1rem 2rem;
 }
+
+
+
+/*
+ align buttons with text 
+ make icons in the navbar align, correct color and size
+ fix the footer so that border goes all the way around
+ fix font sizes throughout
+*/
 
 .leftColumn {
     display:flex;
